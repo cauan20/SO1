@@ -1,0 +1,13 @@
+1 algoritmo ´´conversao´´
+2 var
+3 far: inteiro
+4 c: real
+5 inicio
+6 para far de 50 ate 100 passo 1 faca
+7 escreval (far, ´´graus em fahrenheit´´)
+8 c <- (far-32) *5/9 
+9 escreval (c, ´´graus em celsius´´)
+10 escreval()
+11 fimpara
+12
+13 fimalgoritmo

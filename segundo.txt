@@ -1,0 +1,13 @@
+1 Algoritmo ´´semnome´´
+2
+3 var
+4 X: inteiro
+5
+6
+7 Inicio
+8 para x de 100 ate 150 passo 2 faca
+9 escreval (x)
+10 fimpara
+11
+12
+13 Fimalgoritmo

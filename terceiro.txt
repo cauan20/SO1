@@ -1,0 +1,19 @@
+1 algoritmo ´´contador´´
+2
+3
+4
+5
+6
+7 var
+8
+9 contador : inteiro
+10
+11
+12 inicio
+13
+14
+15 enquanto (contador <= 20) faca
+16     escreval (contador)
+17     contador <- contador + 1
+18 fimenquanto
+19 fimalgoritmo
